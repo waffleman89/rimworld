@@ -1,0 +1,219 @@
+Mono path[0] = 'D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Yo/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.090 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.678700 ms
+Command line arguments: -savedatafolder=C:\Users\Andrew\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.4.3613 rev641
+Save data folder overridden to C:\Users\Andrew\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC6A0030.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022B8AADC330.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC86F060.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC90E880.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC5D1010.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC628030.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC62DA40.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC54CC30.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC931AA0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9A3820.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC644490.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9A5A40.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9C0C50.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC647CA0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9DCE80.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9DE490.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9DFAA0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9F42C0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAC9FDED0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB28010.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022B8AADAF20.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB2AC20.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB33440.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB14A10.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB58A80.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB73CA0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB7E6B0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACB98ED0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBB9110.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBC7F30.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBC9D40.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBE3F60.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBE9370.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022B8AAE63B0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACBECF80.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC05DA0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022B8A8690D0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC2E5D0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC30FE0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022B64047960.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC37BF0.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC43E10.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACC48230.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACEA9070.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BACF84170.dll
+Fallback handler could not load library D:/Yo/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000022BAD30F0D0.dll
+[VanillaAchievementsExpanded] version 1.4.8315
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Yo\steamapps\common\RimWorld;D:\Yo\steamapps\common\RimWorld;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'Andrew'
+OS-Version: 10.0.0
+D:\Yo\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF60CF40000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFBEEC50000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFBED5D0000), size: 782336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFBEC530000), size: 2957312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+D:\Yo\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FFBA9ED0000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFBEDFD0000), size: 1708032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFBECC10000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFBEEBE0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFBECB00000), size: 1110016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFBEC370000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFBEC970000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFBEDDE0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFBED4A0000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFBEE730000), size: 3493888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFBE6860000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFBED400000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFBEEA90000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFBEE1E0000), size: 4620288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFBECC40000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFBEC340000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFBEE660000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFBECF00000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFBED690000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFBED210000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFBED3C0000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFBB7D40000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFBEC810000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFBEEAF0000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFBE1CB0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFBE5B80000), size: 1097728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFBEABC0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFBCC860000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFBEA220000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFBECA70000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFBE9D50000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFBEDF10000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFBEA420000), size: 7938048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\SYSTEM32\Wldp.dll:Wldp.dll (00007FFBEBD30000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFBEC280000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+D:\Yo\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFBA73B0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFBEDFC0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFBEB780000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1865
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFBECD20000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFBE8D50000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFBEAC00000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_ee20464bb4ac57f4\nvldumdx.dll:nvldumdx.dll (00007FFBE3300000), size: 1142784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1694
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFBEBF30000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2251
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFBE6070000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FFBE6190000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1949
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FFBEC0F0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFBEBC80000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (00007FFBEC410000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2486
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFBEE710000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFBEBC90000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFBEB340000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_ee20464bb4ac57f4\nvwgf2umx.dll:nvwgf2umx.dll (00007FFB9B0B0000), size: 44015616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1694
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFB7FA30000), size: 2895872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.23.0.74
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFBEB4F0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFBE6940000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFBECE40000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFBE41B0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFBE3FC0000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFBE11A0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFBE1CE0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFBD1160000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFBEC200000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2211.5-0\MpOav.dll:MpOav.dll (00007FFBD10E0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2211.5
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFBE6D30000), size: 544768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFBE6E60000), size: 1581056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2364
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFBEBD80000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFBEBD60000), size: 73728 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFBE9E10000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFBE8FC0000), size: 1978368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFBEA110000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFBDD000000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2075
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFBE9300000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2193
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFBE9780000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFBE7FC0000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2311
+D:\Yo\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFBDB430000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+D:\Yo\steamclient64.dll:steamclient64.dll (00007FFB96990000), size: 22679552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.83.43.90
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFBD1550000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\Yo\tier0_s64.dll:tier0_s64.dll (00007FFBB6440000), size: 1662976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.83.43.90
+D:\Yo\vstdlib_s64.dll:vstdlib_s64.dll (00007FFBC2370000), size: 733184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.83.43.90
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFBEBA90000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFBEC230000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.2130
+D:\Yo\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFBB5D00000), size: 1605632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.83.43.90
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFBE05E0000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFBAA46313F (UnityPlayer) UnityMain
+0x00007FFBAA462CC9 (UnityPlayer) UnityMain
+0x00007FFBAA46090A (UnityPlayer) UnityMain
+0x00007FFBAA45D01C (UnityPlayer) UnityMain
+0x00007FFBAA46016C (UnityPlayer) UnityMain
+0x00007FFBAA96CAF1 (UnityPlayer) UnityMain
+0x00007FFBAA959C19 (UnityPlayer) UnityMain
+0x00007FFBAA7D4214 (UnityPlayer) UnityMain
+0x00007FFBAA7D2E94 (UnityPlayer) UnityMain
+0x00007FFBAA7D2C70 (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA1B28FF)
+0x00007FFBAA1B28FF (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA1B1A15)
+0x00007FFBAA1B1A15 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA1A68B1)
+0x00007FFBAA1A68B1 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA28173E)
+0x00007FFBAA28173E (UnityPlayer) (function-name not available)
+0x0000022B5FEFB86F (Mono JIT Code) (wrapper managed-to-native) UnityEngine.AssetBundle:LoadAsset_Internal (UnityEngine.AssetBundle,string,System.Type)
+0x0000022B5FEFB6C3 (Mono JIT Code) UnityEngine.AssetBundle:LoadAsset (string,System.Type)
+0x0000022B5FEFB5C3 (Mono JIT Code) UnityEngine.AssetBundle:LoadAsset<T_REF> (string)
+0x0000022B8BC0D033 (Mono JIT Code) Verse.ContentFinder`1<T_REF>:Get (string,bool)
+0x0000022C4A7EEFE3 (Mono JIT Code) Verse.Sound.AudioGrain_Clip/<GetResolvedGrains>d__1:MoveNext ()
+0x0000022C4A7EEA4A (Mono JIT Code) Verse.Sound.SubSoundDef:<ResolveReferences>b__33_0 ()
+0x0000022BAD40177C (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x0000022BAD401ECB (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x0000022B8BC37603 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x0000022B8BC36363 (Mono JIT Code) Verse.Root:Update ()
+0x0000022B8BC360CB (Mono JIT Code) Verse.Root_Entry:Update ()
+0x0000022B647A2220 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FFBA74DE270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FFBA7462AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FFBA746BB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FFBAA7A606D (UnityPlayer) UnityMain
+0x00007FFBAA7A3443 (UnityPlayer) UnityMain
+0x00007FFBAA78C603 (UnityPlayer) UnityMain
+0x00007FFBAA78C6BD (UnityPlayer) UnityMain
+0x00007FFBAA518110 (UnityPlayer) UnityMain
+0x00007FFBAA6663C7 (UnityPlayer) UnityMain
+0x00007FFBAA666463 (UnityPlayer) UnityMain
+0x00007FFBAA6688BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA41751E)
+0x00007FFBAA41751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA41627A)
+0x00007FFBAA41627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFBAA41A32C)
+0x00007FFBAA41A32C (UnityPlayer) (function-name not available)
+0x00007FFBAA41DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FF60CF411F2)
+0x00007FF60CF411F2 (RimWorldWin64) (function-name not available)
+0x00007FFBED5E7614 (KERNEL32) BaseThreadInitThunk
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not be found.' (Address: 00007FFBEECA26A1)
+0x00007FFBEECA26A1 (ntdll) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/Andrew/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
